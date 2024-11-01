@@ -1,0 +1,39 @@
+
+[
+  {
+    "FlightNo": 1,
+    "DepartureCity": "YUL",
+    "ArrivalCity": "YYZ",
+    "Day": 1
+  },
+  {
+    "FlightNo": 2,
+    "DepartureCity": "YUL",
+    "ArrivalCity": "YYC",
+    "Day": 1
+  },
+  {
+    "FlightNo": 3,
+    "DepartureCity": "YUL",
+    "ArrivalCity": "YVR",
+    "Day": 1
+  },
+  {
+    "FlightNo": 4,
+    "DepartureCity": "YUL",
+    "ArrivalCity": "YYZ",
+    "Day": 2
+  },
+  {
+    "FlightNo": 5,
+    "DepartureCity": "YUL",
+    "ArrivalCity": "YYC",
+    "Day": 2
+  },
+  {
+    "FlightNo": 6,
+    "DepartureCity": "YUL",
+    "ArrivalCity": "YVR",
+    "Day": 2
+  }
+]
